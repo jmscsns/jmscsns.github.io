@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on blinking blimey</title>
-    <link>https://jmscsns.github.io/tags/</link>
+    <link>https://blinkingblimey.com/tags/</link>
     <description>Recent content in Tags on blinking blimey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Sep 2021 18:00:00 +0000</lastBuildDate><atom:link href="https://jmscsns.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 18:00:00 +0000</lastBuildDate><atom:link href="https://blinkingblimey.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>pointless</title>
-      <link>https://jmscsns.github.io/tags/pointless/</link>
+      <link>https://blinkingblimey.com/tags/pointless/</link>
       <pubDate>Wed, 01 Sep 2021 18:00:00 +0000</pubDate>
       
-      <guid>https://jmscsns.github.io/tags/pointless/</guid>
+      <guid>https://blinkingblimey.com/tags/pointless/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temporary</title>
-      <link>https://jmscsns.github.io/tags/temporary/</link>
+      <link>https://blinkingblimey.com/tags/temporary/</link>
       <pubDate>Wed, 01 Sep 2021 18:00:00 +0000</pubDate>
       
-      <guid>https://jmscsns.github.io/tags/temporary/</guid>
+      <guid>https://blinkingblimey.com/tags/temporary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>testing</title>
-      <link>https://jmscsns.github.io/tags/testing/</link>
+      <link>https://blinkingblimey.com/tags/testing/</link>
       <pubDate>Wed, 01 Sep 2021 18:00:00 +0000</pubDate>
       
-      <guid>https://jmscsns.github.io/tags/testing/</guid>
+      <guid>https://blinkingblimey.com/tags/testing/</guid>
       <description></description>
     </item>
     

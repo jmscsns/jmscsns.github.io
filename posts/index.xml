@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on blinking blimey</title>
-    <link>https://jmscsns.github.io/posts/</link>
+    <link>https://blinkingblimey.com/posts/</link>
     <description>Recent content in Posts on blinking blimey</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Sep 2021 18:00:00 +0000</lastBuildDate><atom:link href="https://jmscsns.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 18:00:00 +0000</lastBuildDate><atom:link href="https://blinkingblimey.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://jmscsns.github.io/posts/helloworld/</link>
+      <link>https://blinkingblimey.com/posts/helloworld/</link>
       <pubDate>Wed, 01 Sep 2021 18:00:00 +0000</pubDate>
       
-      <guid>https://jmscsns.github.io/posts/helloworld/</guid>
+      <guid>https://blinkingblimey.com/posts/helloworld/</guid>
       <description>Hello world. That&amp;rsquo;s it, this is just a post so there is something there for me to publish.</description>
     </item>
     
