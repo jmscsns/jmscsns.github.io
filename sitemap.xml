@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blinkingblimey.com/posts/21-09-05-helloworld/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/categories/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/hello-world/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/micro.blog/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/categories/micro.blog/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/posts/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/status/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/</loc>
+    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+  </url>
+</urlset>

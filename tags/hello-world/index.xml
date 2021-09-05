@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello world on &lt;blink&gt;blimey&lt;/blink&gt;</title>
+    <link>https://blinkingblimey.com/tags/hello-world/</link>
+    <description>Recent content in hello world on &lt;blink&gt;blimey&lt;/blink&gt;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 05 Sep 2021 19:44:00 +0100</lastBuildDate><atom:link href="https://blinkingblimey.com/tags/hello-world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://blinkingblimey.com/posts/21-09-05-helloworld/</link>
+      <pubDate>Sun, 05 Sep 2021 19:44:00 +0100</pubDate>
+      
+      <guid>https://blinkingblimey.com/posts/21-09-05-helloworld/</guid>
+      <description>Having spent a chunk of time this weekend tinkering with a new blog I suppose I&amp;rsquo;m going to have to put some content on the damn thing. Cue loss of inspiration following by crippling self-censorship.</description>
+    </item>
+    
+  </channel>
+</rss>
