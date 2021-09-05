@@ -6,26 +6,7 @@
     <description>Recent content on &lt;blink&gt;blimey&lt;/blink&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blinkingblimey.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://blinkingblimey.com/status/status210905/</link>
-      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://blinkingblimey.com/status/status210905/</guid>
-      <description>This is a test status update&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>This is a picture...</title>
-      <link>https://blinkingblimey.com/posts/grimsbyminster/</link>
-      <pubDate>Thu, 02 Sep 2021 18:00:00 +0000</pubDate>
-      
-      <guid>https://blinkingblimey.com/posts/grimsbyminster/</guid>
-      <description>This is a picture of Grimsby Minster. It&amp;rsquo;s being posted for testing purposes.
-This is some more text that sits underneath.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 01 Sep 2021 18:00:00 +0000</lastBuildDate><atom:link href="https://blinkingblimey.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://blinkingblimey.com/posts/helloworld/</link>
@@ -33,6 +14,15 @@ This is some more text that sits underneath.</description>
       
       <guid>https://blinkingblimey.com/posts/helloworld/</guid>
       <description>Hello world. That&amp;rsquo;s it, this is just a post so there is something there for me to publish.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blinkingblimey.com/status/status210905/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blinkingblimey.com/status/status210905/</guid>
+      <description>This is a test status update. Sorry to bother you, I will be deleting it shortly.</description>
     </item>
     
   </channel>

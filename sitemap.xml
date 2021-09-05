@@ -2,39 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blinkingblimey.com/status/status210905/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blinkingblimey.com/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/status/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/tags/picture/</loc>
-    <lastmod>2021-09-02T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/tags/pointless/</loc>
-    <lastmod>2021-09-02T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/posts/</loc>
-    <lastmod>2021-09-02T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/tags/</loc>
-    <lastmod>2021-09-02T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/tags/temporary/</loc>
-    <lastmod>2021-09-02T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/tags/testing/</loc>
-    <lastmod>2021-09-02T18:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/posts/grimsbyminster/</loc>
-    <lastmod>2021-09-02T18:00:00+00:00</lastmod>
+    <lastmod>2021-09-01T18:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blinkingblimey.com/posts/helloworld/</loc>
     <lastmod>2021-09-01T18:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://blinkingblimey.com/tags/pointless/</loc>
+    <lastmod>2021-09-01T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/posts/</loc>
+    <lastmod>2021-09-01T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/</loc>
+    <lastmod>2021-09-01T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/temporary/</loc>
+    <lastmod>2021-09-01T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/testing/</loc>
+    <lastmod>2021-09-01T18:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/status/status210905/</loc>
+  </url><url>
     <loc>https://blinkingblimey.com/categories/</loc>
+  </url><url>
+    <loc>https://blinkingblimey.com/status/</loc>
   </url>
 </urlset>
