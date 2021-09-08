@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blinkingblimey.com/posts/21-09-05-helloworld/</loc>
-    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
-  </url><url>
     <loc>https://blinkingblimey.com/</loc>
-    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/blogging/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/categories/blogging/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/posts/2020-09-08-blogginglikeits2008/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
   </url><url>
     <loc>https://blinkingblimey.com/categories/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/nostalgia/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/posts/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/self-censorship/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/social-media/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/</loc>
+    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/posts/21-09-05-helloworld/</loc>
     <lastmod>2021-09-05T19:44:00+01:00</lastmod>
   </url><url>
     <loc>https://blinkingblimey.com/tags/hello-world/</loc>
@@ -20,13 +44,7 @@
     <loc>https://blinkingblimey.com/categories/micro.blog/</loc>
     <lastmod>2021-09-05T19:44:00+01:00</lastmod>
   </url><url>
-    <loc>https://blinkingblimey.com/posts/</loc>
-    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
-  </url><url>
     <loc>https://blinkingblimey.com/tags/status/</loc>
-    <lastmod>2021-09-05T19:44:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/tags/</loc>
     <lastmod>2021-09-05T19:44:00+01:00</lastmod>
   </url>
 </urlset>
