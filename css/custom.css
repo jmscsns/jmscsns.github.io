@@ -1,1 +1,4 @@
 #webmentions img { max-height: 1.2em; margin-right: -1ex; }
+img {	display: block;
+	max-width: 600px;
+ 	border-radius: 20px; }
