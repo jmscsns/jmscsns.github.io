@@ -6,7 +6,17 @@
     <description>Recent content on &lt;blink&gt;blimey&lt;/blink&gt;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 28 Sep 2021 16:53:40 +0100</lastBuildDate><atom:link href="https://blinkingblimey.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Oct 2021 20:53:40 +0100</lastBuildDate><atom:link href="https://blinkingblimey.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://blinkingblimey.com/posts/2021-10-19-tinkering/</link>
+      <pubDate>Tue, 19 Oct 2021 20:53:40 +0100</pubDate>
+      
+      <guid>https://blinkingblimey.com/posts/2021-10-19-tinkering/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve just spent an age tinkering with Github Actions and Pages to automate building a Hugo site. Something I imagine many people would do in moments, but there&amp;rsquo;s a real sense joy in accomplishing even something that simple.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://blinkingblimey.com/posts/2021-09-28-recognition-at-last/</link>
