@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blinkingblimey.com/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/posts/21-11-04-year-without-work/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/categories/blogging/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/categories/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/freelancing/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/posts/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/work/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blinkingblimey.com/tags/writing/</loc>
+    <lastmod>2021-11-04T18:51:51+00:00</lastmod>
+  </url><url>
     <loc>https://blinkingblimey.com/posts/21-10-23-happy-hours-on-a-bench/</loc>
     <lastmod>2021-10-23T18:21:18+01:00</lastmod>
   </url><url>
-    <loc>https://blinkingblimey.com/</loc>
-    <lastmod>2021-10-23T18:21:18+01:00</lastmod>
-  </url><url>
     <loc>https://blinkingblimey.com/tags/bench/</loc>
-    <lastmod>2021-10-23T18:21:18+01:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/categories/</loc>
     <lastmod>2021-10-23T18:21:18+01:00</lastmod>
   </url><url>
     <loc>https://blinkingblimey.com/tags/memorial/</loc>
@@ -20,13 +41,7 @@
     <loc>https://blinkingblimey.com/tags/mystery/</loc>
     <lastmod>2021-10-23T18:21:18+01:00</lastmod>
   </url><url>
-    <loc>https://blinkingblimey.com/posts/</loc>
-    <lastmod>2021-10-23T18:21:18+01:00</lastmod>
-  </url><url>
     <loc>https://blinkingblimey.com/categories/status/</loc>
-    <lastmod>2021-10-23T18:21:18+01:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/tags/</loc>
     <lastmod>2021-10-23T18:21:18+01:00</lastmod>
   </url><url>
     <loc>https://blinkingblimey.com/posts/2021-10-19-tinkering/</loc>
@@ -120,9 +135,6 @@
     <lastmod>2021-09-12T18:08:00+01:00</lastmod>
   </url><url>
     <loc>https://blinkingblimey.com/tags/blogging/</loc>
-    <lastmod>2021-09-08T16:31:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blinkingblimey.com/categories/blogging/</loc>
     <lastmod>2021-09-08T16:31:00+01:00</lastmod>
   </url><url>
     <loc>https://blinkingblimey.com/posts/21-09-08-blogginglikeits2008/</loc>
